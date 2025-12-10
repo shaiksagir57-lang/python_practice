@@ -3,7 +3,7 @@
 3. 2025-02-10 10:01:24 WARN Cache warm-up delayed
 4. 2025-02-10 10:01:25 INFO Worker thread launched
 5. 2025-02-10 10:01:26 DEBUG Performing handshake with remote service
-6. 2025-02-10 10:01:26 ERROR Connection timeout detected – errors occurred during sync
+6. 2025-02-10 10:01:26 ERRORdd Connection timeout detected – errors occurred during sync
 7. 2025-02-10 10:01:27 INFO Retrying request
 8. 2025-02-10 10:01:27 DEBUG Allocating buffer
 9. 2025-02-10 10:01:28 INFO Heartbeat received
